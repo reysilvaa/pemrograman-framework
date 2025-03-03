@@ -6,19 +6,8 @@ Mata kuliah *Pemrograman Framework* membahas tentang penggunaan framework dalam 
 
 ## 📑 Daftar Isi Jobsheet  
 
-### **🔹 Jobsheet 1: Pengenalan Framework**  
-1. Definisi dan Instalasi  
-2. Struktur Folder  
-3. Routing Dasar  
-4. Praktik Komponen & Route  
-5. Tugas  
-
-### **🔹 Jobsheet 2: Routing & State Management**  
-1. Konsep Routing & State  
-2. Routing di Next.js & Laravel  
-3. State Management (useState, Context API)  
-4. Middleware & Controller  
-5. Tugas  
+#### **🔹 [Pertemuan 1: Pengantar Pemrograman Berbasis Framework](http://github.com/reysilvaa/pemrograman-framework/tree/master/Pertemuan%201/hello-world)**  
+#### **🔹 [Pertemuan 2: Pengenalan ReactJS](https://github.com/reysilvaa/pemrograman-framework/tree/master/Pertemuan%202/my-react-app)**  
 
 ## 🎯 Tujuan Pembelajaran  
 - Memahami konsep dasar framework dalam pengembangan perangkat lunak.  
