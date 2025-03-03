@@ -6,7 +6,7 @@ Berikut adalah versi yang lebih rapi dan profesional dari jawaban tugas Anda:
 Proyek ini dibuat menggunakan [Create React App](https://github.com/facebook/create-react-app).  
 
 ## **Available Scripts**  
-
+- `npm install` – Menginstal dependency aplikasi yang dibutuhkan.  
 - `npm start` – Menjalankan aplikasi di mode pengembangan.  
 - `npm test` – Menjalankan pengujian.  
 - `npm run build` – Membangun aplikasi untuk produksi.  
