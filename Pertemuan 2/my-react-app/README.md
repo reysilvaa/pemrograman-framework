@@ -1,7 +1,3 @@
-Berikut adalah versi yang lebih rapi dan profesional dari jawaban tugas Anda:  
-
----
-
 # **Getting Started with Create React App**  
 Proyek ini dibuat menggunakan [Create React App](https://github.com/facebook/create-react-app).  
 
